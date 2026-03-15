@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/tvbox.json",
-            "name": "📺 TVBox主仓"
+            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/oktv.json",
+            "name": "👌OK影视"
         },
         {
             "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/ysc.json",
-            "name": "🧀 YSC预备仓"
+            "name": "📺 影视仓"
         }
     ]
 }
