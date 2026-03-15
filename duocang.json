@@ -1,12 +1,12 @@
 {
-    "storeHouse": [
+    "urls": [
         {
-            "sourceName": "📺 TVBox主仓（弹幕/秒播）",
-            "sourceUrl": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/tvbox.json"
+            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/tvbox.json",
+            "name": "📺 TVBox主仓"
         },
         {
-            "sourceName": "🧀 YSC尝鲜仓（多线/特殊源）", 
-            "sourceUrl": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/ysc.json"
+            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/ysc.json",
+            "name": "🧀 YSC尝鲜仓"
         }
     ]
 }
