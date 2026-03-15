@@ -1,0 +1,228 @@
+{
+  "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
+
+  "logo": "https://raw.githubusercontent.com/FongMi/CatVodTVJson/main/logo.png",
+
+  "sites": [
+
+    {
+      "key": "豆瓣",
+      "name": "🤓公众号┃OK杰克",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": { "sp": "Douban" }
+    },
+
+    {
+      "key": "配置中心",
+      "name": "👨‍🍳配置┃中心",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": { "sp": "Config" }
+    },
+
+    {
+      "key": "本地播放",
+      "name": "🐼本地┃播放",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": { "sp": "Local" },
+      "timeout": 5
+    },
+
+    {
+      "key": "瓜子",
+      "name": "🍉瓜子┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Guazi", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "文才",
+      "name": "🌺文才┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Jpys", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Nmys", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "热播",
+      "name": "📺热播┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "TianTian", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "雄鹰",
+      "name": "🦅雄鹰┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "XiongYing", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "奇奇",
+      "name": "🐵奇奇┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "QiQi", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "独播",
+      "name": "👠独播┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Duboku", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "厂长",
+      "name": "📔厂长┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Czzy", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "荐片",
+      "name": "⚔️荐片┃手机",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Jianpian", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "韩圈",
+      "name": "🦄韩圈┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "HanXiaoQuan", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "爱看",
+      "name": "⛅爱看┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "sp": "Ikanbot", "danmu": true },
+      "timeout": 10
+    },
+
+    {
+      "key": "电影天堂",
+      "name": "🎞天堂┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+        "danmu": true
+      }
+    },
+
+    {
+      "key": "量子",
+      "name": "📷量子┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/m3u8/",
+        "danmu": true
+      }
+    },
+
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": { "sp": "Xb6v" },
+      "timeout": 20
+    }
+
+  ],
+
+  "parses": [
+    { "name": "HLS", "type": 0, "url": "https://jx.hls.one/?url=" },
+    { "name": "77", "type": 0, "url": "https://jx.77flv.cc/?url=" },
+    { "name": "A6", "type": 0, "url": "https://pl.a6club.com/player/analysis.php?v=" },
+    { "name": "M3U8TV", "type": 0, "url": "https://jx.m3u8.tv/jiexi/?url=" },
+    { "name": "CK", "type": 0, "url": "https://www.ckplayer.vip/jiexi/?url=" },
+    { "name": "XY", "type": 0, "url": "https://jx.xymp4.cc/?url=" }
+  ],
+
+  "ads": [],
+  "lives": [],
+  "proxy": []
+}
