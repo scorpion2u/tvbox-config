@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "📺 TVBox主仓（弹幕/秒播）",
-            "sourceUrl": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/main/tvbox.json"
+            "sourceUrl": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/tvbox.json"
         },
         {
             "sourceName": "🧀 YSC尝鲜仓（多线/特殊源）", 
