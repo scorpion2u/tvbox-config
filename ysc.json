@@ -11,22 +11,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
-        {
-            "key": "MDrive",
-            "name": "🗂我的云盘┃我配置",
-            "type": 3,
-            "api": "csp_MyDriveGuard",
-            "changeable": 0,
-            "indexs": 0,
-            "searchable": 1,
-            "style": {
-                "type": "oval"
-            },
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
+        },
         {
             "key": "立播",
             "name": "🌟立播┃秒播",
