@@ -16,29 +16,6 @@
       "changeable": 1,
       "ext": { "sp": "Douban" }
     },
-
-    {
-      "key": "配置中心",
-      "name": "👨‍🍳配置┃中心",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": { "sp": "Config" }
-    },
-
-    {
-      "key": "本地播放",
-      "name": "🐼本地┃播放",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": { "sp": "Local" },
-      "timeout": 5
-    },
-
     {
       "key": "瓜子",
       "name": "🍉瓜子┃弹幕",
@@ -49,8 +26,7 @@
       "filterable": 1,
       "ext": { "sp": "Guazi", "danmu": true },
       "timeout": 10
-    },
-
+    },
     {
       "key": "文才",
       "name": "🌺文才┃弹幕",
