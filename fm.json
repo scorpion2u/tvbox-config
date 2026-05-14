@@ -11,14 +11,6 @@
             "searchable": 0
         },
         {
-            "key": "豆瓣预告",
-            "name": "🐼┃豆瓣┃预告",
-            "type": 3,
-            "api": "csp_YGP",
-            "playerType": 2,
-            "searchable": 0
-        },
-        {
             "key": "config",
             "name": "🐼┃配置┃中心",
             "type": 3,
