@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/star.json",
-            "name": "🌟星星影视🌟"
+            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/star1.json",
+            "name": "🌟星星1号🌟"
         },
         {
-            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/moon.json",
-            "name": "🌛月亮影视🌜"
+            "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/star2.json",
+            "name": "🌟星星2号🌟"
         }
         
     ]
