@@ -7,11 +7,11 @@
         {
             "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/moon.json",
             "name": "🌛月亮影视🌜"
-        },
+        }
         //{
             "url": "https://raw.githubusercontent.com/scorpion2u/tvbox-config/refs/heads/main/sun.json",
             "name": "🌞太阳影视🌞"
         },
-        {}
+        
     ]
 }
